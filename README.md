@@ -1,3 +1,3 @@
-# tiny-encoders-decoders
+# collab-jar
 
-a placehodler repo for collab notebooks, not to meshup others by direct integration
+a useless placehodler repo for collab notebooks
