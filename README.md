@@ -1,2 +1,3 @@
 # tiny-encoders-decoders
-tiny torch examples of major encoder-decoder classes :hourglass: 
+
+a placehodler repo for collab notebooks, not to meshup others by direct integration
